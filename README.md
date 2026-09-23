@@ -1,5 +1,3 @@
-Gurraiah/README.md
-
 👋 Hii, I’m Gurraiah – Devops Engineer
 Gurraiah
 <img width="800" height="120" alt="image" src="https://github.com/user-attachments/assets/09157026-05df-4b08-bc82-80afe23f530f" />
